@@ -1,0 +1,7 @@
+<h1>Ktory z nich Wybrac?</h1>
+<h2>Po przeczytaniu wybierz najlepsza dla siebie opcje. ;)</h2>
+<ul class="blog-list">
+  <li *ngFor="let post of posts">
+       <app-blog-item id={{post.id}} text={{post.text}}  image={{post.image}}></app-blog-item>
+  </li>
+</ul>

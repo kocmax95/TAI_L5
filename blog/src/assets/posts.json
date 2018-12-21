@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "text": "Xiaomi",
+    "image": "https://i.gadgets360cdn.com/products/large/1529877080_635_xiaomi_redmi_6_pro.jpg?downsize=770:*&output-quality=70&output-format=webp",
+    "content": "Flagowy Xiaomi Mi 8 urzeka ekstrawaganckim designem. Swą smukłą, ultralekką konstrukcją, stworzoną z metalu i profilowanego szkła, dzięki któremu smartfon połyskuje w świetle. Front wypełnia przestronny wyświetlacz Super AMOLED 6,2 Full HD+, a tuż nad nim, w specjalnym wycięciu mieści się kamera selfie 20 Mpix. Z tyłu znajdziesz z kolei podwójny aparat wypełniony po brzegi funkcjami fotograficznymi. Mi 8 jest przy tym ultraszybki, responsywny i bezpieczny."
+  },
+  {
+    "id": 2,
+    "text": "Samsung",
+    "image": "https://stat-m6.ms-online.pl/media/cache/gallery/rc/what6g8e/images/20/20611558/star-product-image-sm-g960-galaxys9-front-blue-rgb.jpg",
+    "content": "Opowiedz swoją historię zdjęciami, zatrzymując je w kadrze aparatem Samsung Galaxy S9. Wykorzystaj w tym celu niezwykłe możliwości, jakie zapewnia nowe podejście do fotografii mobilnej oraz szereg nowatorskich technologii zamkniętych w smukłej, designerskiej obudowie pozbawionej ramek. Przekonaj się również, jak żywe są wspomnienia, gdy oglądasz je na ekranie Infinity QHD+ 5,8”. Galaxy S9 to doskonałość w najpiękniejszym wydaniu."
+  },
+  {
+    "id": 3,
+    "text": "Huawei",
+    "image": "https://f01.esfr.pl/foto/5/28564405729/36c4270c0bf5c827a13615c37320cdfc/huawei-p20-lite-rozowy,28564405729_7.jpg",
+    "content": "Huawei P20 Pro zrobi zdjęcie i zapisze je w galerii w zaledwie 0,3 sekundy, dzięki czemu nie umknie Ci już żadna okazja do zrobienia idealnej fotografii. Wystarczy, że dwukrotnie naciśniesz przycisk głośności, a Funkcja Super Action Snapshot aktywuje aparat. Z kolei 4D Predictive Focus śledzi obiekt będący w ruchu oraz przewiduje jego zachowanie, by zarejestrować kadr w najlepszym momencie."
+  },
+  {
+    "id": 4,
+    "text": "Iphone",
+    "image": "https://i.wpimg.pl/O/315x0/m.komorkomania.pl/bez-tytulu-1216de1b9bf9d8d23e174.png",
+    "content": "Cztery rdzenie dbające o energooszczędność w całkowicie nowym CPU są do 70 procent szybsze niż w procesorze A10 Fusion. A dwa rdzenie zapewniające wydajność – nawet o 25 procent."
+  }
+]
