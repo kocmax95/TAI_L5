@@ -1,0 +1,9 @@
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  filter: brightness(1.25);
+  box-shadow: 0 0 10px 2px red;
+}
+

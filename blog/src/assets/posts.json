@@ -21,5 +21,23 @@
     "text": "Iphone",
     "image": "https://i.wpimg.pl/O/315x0/m.komorkomania.pl/bez-tytulu-1216de1b9bf9d8d23e174.png",
     "content": "Cztery rdzenie dbające o energooszczędność w całkowicie nowym CPU są do 70 procent szybsze niż w procesorze A10 Fusion. A dwa rdzenie zapewniające wydajność – nawet o 25 procent."
+  },
+  {
+    "id": 5,
+    "text": "Oppo",
+    "image": "https://1.allegroimg.com/s720/012151/7f9a9fbe44bd987c7fcf19ba0e81",
+    "content": "OPPO RX17 Neo jest wyposażony w skaner odcisków palców zintegrowany z ekranem. Wystarczy jeden prosty dotyk, aby odblokować urządzenie. Dzięki czytnikowi ukrytemu pod ekranem i wzornictwu Microlens smartfon natychmiast rozpozna Twoje odciski palców."
+  },
+  {
+    "id": 6,
+    "text": "HTC",
+    "image": "https://2.allegroimg.com/s720/010848/a5909f6b4abb8881562706c20582",
+    "content": "Zupełnie nowa konstrukcja wyposażona w cyfrowe przyciski wrażliwe na nacisk i reagujące na dotyk oraz inteligentne, interaktywne ramki ułatwiające obsługę jedną ręką. Najwyżej oceniany podwójny aparati. Najlepsze brzmienie tak przez słuchawki jak i głośniki. Przyćmiewający oczekiwania, najnowszy procesor Snapdragon 845 napędza każdy egzemplarz HTC U12+."
+  },
+  {
+    "id": 7,
+    "text": "Nokia",
+    "image": "https://c.allegroimg.com/s720/01b287/f68be4e449809df74926ec57949c",
+    "content": "Nokia 7 Plus jest wytwarzana z bloku aluminium serii 6000. Ten telefon wytrzymuje trudy użytkowania, a przy tym dobrze wygląda. Jego subtelne zaokrąglenie i ceramiczna powłoka stanowią idealne połączenie świetnego dopasowania do dłoni i estetycznego wyglądu."
   }
 ]

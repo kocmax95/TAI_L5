@@ -1,2 +1,6 @@
-<app-blog-item-text [text]="text" [id]="id"></app-blog-item-text>
-<app-blog-item-image [image]="image"></app-blog-item-image>
+<div routerLink="/blog/details/{{id}}" routerLinkActive="active" class="card">
+    <div class="card-body">
+      <app-blog-item-text [text]="text" [id]="id"></app-blog-item-text>
+      <app-blog-item-image [image]="image"></app-blog-item-image>
+    </div>
+</div>
